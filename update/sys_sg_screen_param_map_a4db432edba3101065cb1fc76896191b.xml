@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_screen_param_map">
+    <sys_sg_screen_param_map action="INSERT_OR_UPDATE">
+        <item_parameter display_value="Req for">9a5b0feadba3101065cb1fc7689619a1</item_parameter>
+        <screen display_value="By Request Type">c297076adba3101065cb1fc7689619f4</screen>
+        <sys_class_name>sys_sg_screen_param_map</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-10-02 16:04:41</sys_created_on>
+        <sys_id>a4db432edba3101065cb1fc76896191b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>9a5b0feadba3101065cb1fc7689619a1</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_sg_screen_param_map_a4db432edba3101065cb1fc76896191b</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-10-02 16:04:41</sys_updated_on>
+        <ui_parameter display_value="Requested for">d00bcbaadba3101065cb1fc76896190d</ui_parameter>
+    </sys_sg_screen_param_map>
+</record_update>
